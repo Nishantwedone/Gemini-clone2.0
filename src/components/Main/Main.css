@@ -51,8 +51,9 @@
     position: absolute;
     background-color: white;
     border-radius: 20px;
-    bottom: 140px;
-    /* right: 800px; */
+    top: 540px;
+    /* bottom: 140px; */
+    /* left: 800px; */
 }
 .main .card p{
     color: #585858;
